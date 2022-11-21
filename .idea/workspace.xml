@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="33195230-cebb-44ce-985c-2769c1cc96f2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day01/chronalCalibration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day01/chronalCalibration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day02/solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day02/solution.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +31,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectId" id="2Himrll8pOhbFH7oTHFs6pihakv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,13 +41,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Project.color": "3d1f57",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "/home/rory/Source/AdventOfCode2018/src/main/kotlin/day02"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/day02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.SolutionKt">
     <configuration name="ChronalCalibrationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day01.ChronalCalibrationKt" />
       <module name="AdventOfCode2018.main" />
@@ -59,8 +60,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.SolutionKt" />
+      <module name="AdventOfCode2018.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SolutionKt" />
         <item itemvalue="Kotlin.ChronalCalibrationKt" />
       </list>
     </recent_temporary>
@@ -93,9 +102,5 @@
         <breakpoint enabled="true" type="java-exception" />
       </default-breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
